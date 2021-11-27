@@ -1,0 +1,32 @@
+// .transition {
+//     height: 100vh;
+//     width: 100%;
+//     position: fixed;
+//     left: 0;
+//     top: 0;
+//     background: rgb(153, 0, 255);
+//     z-index: 1;
+//     transform: translate(120%, 120%);
+// }
+
+.transition_1 {
+    height: 50vh;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: rgb(153, 0, 255);
+    z-index: 1;
+    transform: translate(120%, 120%);
+}
+
+.transition_2 {
+    height: 50vh;
+    left: 0;
+    position: fixed;
+    top: 50%;
+    width: 100%;
+    background: rgb(153, 0, 255);
+    z-index: 1;
+    transform: translate(120%, 120%);
+}
